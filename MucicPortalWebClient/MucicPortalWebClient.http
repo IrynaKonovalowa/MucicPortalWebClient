@@ -1,0 +1,6 @@
+@MucicPortalWebClient_HostAddress = http://localhost:5224
+
+GET {{MucicPortalWebClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
